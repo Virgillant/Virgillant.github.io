@@ -1225,6 +1225,7 @@ a.readmore_bt {
 
 .text-bg h1{
      color: #242424;
+     text-align: center;
      padding-top: 50px;
      font-size: 110px;
      line-height: 123px;
@@ -1674,10 +1675,6 @@ a.readmore_bt {
 }
 .copyright a:hover {
      color: #000;
-}
-
-.text-img{
-     padding: 50px;
 }
 .titlepage {
      padding-bottom: 80px;
