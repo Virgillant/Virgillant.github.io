@@ -1229,7 +1229,6 @@ a.readmore_bt {
      font-size: 110px;
      line-height: 123px;
      padding-bottom: 25px;
-     padding-left: 40px;
      font-family: 'Times New Roman', Times, serif;
 }
 
@@ -1678,6 +1677,9 @@ a.readmore_bt {
      color: #000;
 }
 
+.text-img{
+     padding-left:100px;
+}
 .titlepage {
      padding-bottom: 80px;
 }
