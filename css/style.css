@@ -1226,7 +1226,6 @@ a.readmore_bt {
 .text-bg h1{
      color: #242424;
      padding-top: 50px;
-     padding-left: 50px;
      font-size: 110px;
      line-height: 123px;
      padding-bottom: 25px;
@@ -1383,7 +1382,7 @@ a.readmore_bt {
      background: url(../images/Product1.jpg);
      padding-top: 90px;
      background-repeat: no-repeat;
-     background-size: 100% 100%;
+     background-size: cover;
 }
 
 .Features .titlepage {
