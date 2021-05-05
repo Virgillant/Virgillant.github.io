@@ -1382,7 +1382,7 @@ a.readmore_bt {
      background: url(../images/Product1.jpg);
      padding-top: 90px;
      background-repeat: no-repeat;
-     background-size: cover;
+     background-size: 100% 100%;
 }
 
 .Features .titlepage {
@@ -1672,13 +1672,11 @@ a.readmore_bt {
 .copyright a {
      color: #fff;
 }
-
+.slider_section .container .row .d_flex{
+    left : 100px;
+}
 .copyright a:hover {
      color: #000;
-}
-
-.text-img{
-     padding-left:100px;
 }
 .titlepage {
      padding-bottom: 80px;
