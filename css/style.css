@@ -1226,6 +1226,7 @@ a.readmore_bt {
 .text-bg h1{
      color: #242424;
      padding-top: 50px;
+     padding-left: 50px;
      font-size: 110px;
      line-height: 123px;
      padding-bottom: 25px;
@@ -1671,9 +1672,6 @@ a.readmore_bt {
 
 .copyright a {
      color: #fff;
-}
-.slider_section .container .row .d_flex{
-    left : 100px;
 }
 .copyright a:hover {
      color: #000;
