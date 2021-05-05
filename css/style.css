@@ -1675,6 +1675,10 @@ a.readmore_bt {
 .copyright a:hover {
      color: #000;
 }
+
+.text-img{
+     padding: 50px;
+}
 .titlepage {
      padding-bottom: 80px;
 }
